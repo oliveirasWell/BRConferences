@@ -14,6 +14,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [#HelloWorld Sao Paulo](https://helloworldsaopaulo.splashthat.com/) | **May 10** | Sao Paulo
 * [TDC Florianopolis](http://www.thedevelopersconference.com.br/) | **May 12-14** | Florianopolis
 * [Mobile Brazil Conference](http://mobilebrazilconference.com.br/) | **May 13-14** | Sao Paulo
+* [CEJS](http://www.cejs.com.br/) | **May 28** | Fortaleza
 * [TDC Sao Paulo](http://www.thedevelopersconference.com.br/) | **July 5-9** | Sao Paulo
 * [FISL](http://softwarelivre.org/fisl16) | **July 15-16** | 
 * [Hackathon FIESP](http://hotsite.fiesp.com.br/hackathon/) | **August** | Sao Paulo
