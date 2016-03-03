@@ -14,10 +14,9 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [Semana da Mulher na Tecnologia](http://semanadamulhernatecnologia.com.br/) | **March 7-13** | Sao Paulo
 * [PHP Experience](http://phpexperience.imasters.com.br) | **March 21-22** | Sao Paulo
 * [QCon Sao Paulo](http://qconsp.com/) | **March 28 - April 1** | Sao Paulo
-* 
-#### Abril
 
-* [Alagoas Dev Day](http://alagoasdevday.com.br/) | **April** | Alagoas
+#### April
+
 * [K-Tab](http://www.k-tab.com.br/) | **April 4** | Recife
 * [TechParty](http://techparty.faccat.br/) | **April 25-28** | Taquara
 
@@ -65,7 +64,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [GDG DevFest Sul](http://devfestsul.com.br/) | **November** | Sao Paulo
 * [GDG DevFest Sao Paulo](http://sp.devfest.com.br/) | **November** | Sao Paulo
 * [Developer Week Porto Alegre](http://developerweek.imasters.com.br/porto-alegre/) | **November** | Porto Alegre
-* [FrontIn Sampa](http://lanyrd.com/2015/frontinsampa/) | **November** | Sao Paulo
+* [Front In Sampa](http://frontinsampa.com.br/) | **November** | Sao Paulo
 * [Big Data Week](http://bigdataweek.com.br/) | **November** | Sao Paulo
 * [Python Brazil](http://2016.pythonbrasil.org.br/) | **November** | Sao Jose dos Campos
 
