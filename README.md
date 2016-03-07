@@ -12,12 +12,12 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 #### March
 
 * [Semana da Mulher na Tecnologia](http://semanadamulhernatecnologia.com.br/) | **March 7-13** | Sao Paulo
+* [L'Oréal Mobile APP Hackathon](http://www.beautyhack.com.br) | **March 18-20** | Sao Paulo
 * [PHP Experience](http://phpexperience.imasters.com.br) | **March 21-22** | Sao Paulo
 * [QCon Sao Paulo](http://qconsp.com/) | **March 28 - April 1** | Sao Paulo
 
 #### April
 
-* [K-Tab](http://www.k-tab.com.br/) | **April 4** | Recife
 * [Global Azure Bootcamp](http://global.azurebootcamp.net) | **April 16** |  Brasília, Goiânia, Uberlândia, Curitiba, Porto Alegre, Rio de Janeiro, Joinville, Rio Claro, São José dos Campos, Taboão da Serra
 * [TechParty](http://techparty.faccat.br/) | **April 25-28** | Taquara
 
@@ -72,6 +72,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 
 #### December
 
+* [PHP Conference Brasil](http://phpconference.com.br) | **December 07-11** | Osasco
 * [JSDay](http://jsday.com.br/) | **December** | Recife
 
 
