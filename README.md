@@ -19,6 +19,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 #### April
 
 * [Global Azure Bootcamp](http://global.azurebootcamp.net) | **April 16** |  Brasília, Goiânia, Uberlândia, Curitiba, Porto Alegre, Rio de Janeiro, Joinville, Rio Claro, São José dos Campos, Taboão da Serra
+* [JSDay](http://jsday.com.br/) | **April 23** | Campina Grande
 * [TechParty](http://techparty.faccat.br/) | **April 25-28** | Taquara
 
 
@@ -73,7 +74,6 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 #### December
 
 * [PHP Conference Brasil](http://phpconference.com.br) | **December 07-11** | Osasco
-* [JSDay](http://jsday.com.br/) | **December** | Recife
 
 
 ### More
