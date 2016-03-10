@@ -30,6 +30,10 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [Mobile & Cloud Hack Days](http://mobilecloud.azurewebsites.net/) | **May 23-27** | On Line - Sao Paulo
 * [CEJS](http://www.cejs.com.br/) | **May 28** | Fortaleza
 
+#### June
+
+* [ASP.NET Brasil Conference 2016](http://www.aspnetbr.com/) | **Jun 4** | São Paulo
+
 #### July
 
 * [TDC Sao Paulo](http://www.thedevelopersconference.com.br/) | **July 5-9** | Sao Paulo
