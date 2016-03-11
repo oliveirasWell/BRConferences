@@ -19,6 +19,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 #### April
 
 * [Congresso de Mobile](http://congressodemobile.com.br) | **April 04-08** | Online
+* [Hackathon Globo](http://hackathonglobo.com) | **April 09-10** | Rio de Janeiro
 * [FrontInCuiabá](http://frontincuiaba.com.br/) | **April 16** | Cuiaba
 * [Global Azure Bootcamp](http://global.azurebootcamp.net) | **April 16** |  Brasília, Goiânia, Uberlândia, Curitiba, Porto Alegre, Rio de Janeiro, Joinville, Rio Claro, São José dos Campos, Taboão da Serra
 * [JSDay](http://jsday.com.br/) | **April 23** | Campina Grande
