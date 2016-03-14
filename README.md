@@ -75,7 +75,6 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [GDG DevFest Sul](http://devfestsul.com.br/) | **November** | Sao Paulo
 * [GDG DevFest Sao Paulo](http://sp.devfest.com.br/) | **November** | Sao Paulo
 * [Developer Week Porto Alegre](http://developerweek.imasters.com.br/porto-alegre/) | **November** | Porto Alegre
-* [Front In Sampa](http://frontinsampa.com.br/) | **November** | Sao Paulo
 * [Big Data Week](http://bigdataweek.com.br/) | **November** | Sao Paulo
 * [Python Brazil](http://2016.pythonbrasil.org.br/) | **November** | Sao Jose dos Campos
 
