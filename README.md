@@ -40,6 +40,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 
 #### July
 
+* [Front in sampa](http://frontinsampa.com.br/) | **July 2** | Sao Paulo
 * [TDC Sao Paulo](http://www.thedevelopersconference.com.br/) | **July 5-9** | Sao Paulo
 * [FISL](http://softwarelivre.org/fisl16) | **July 15-16** | 
 
