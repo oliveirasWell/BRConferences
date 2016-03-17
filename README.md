@@ -13,6 +13,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 
 * [Semana da Mulher na Tecnologia](http://semanadamulhernatecnologia.com.br/) | **March 7-13** | Sao Paulo
 * [L'Oréal Mobile APP Hackathon](http://www.beautyhack.com.br) | **March 18-20** | Sao Paulo
+* [Maratona WoMakersCode 2016](http://www.eventick.com.br/maratona-wmc16) | **March 19** | Porto Alegre
 * [PHP Experience](http://phpexperience.imasters.com.br) | **March 21-22** | Sao Paulo
 * [QCon Sao Paulo](http://qconsp.com/) | **March 28 - April 1** | Sao Paulo
 
