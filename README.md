@@ -37,6 +37,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 #### June
 
 * [ASP.NET Brasil Conference 2016](http://www.aspnetbr.com/) | **Jun 4** | São Paulo
+* [Tech Interior 2016](http://techinterior.com.br/) | **June 11** | Jaboticabal
 
 #### July
 
