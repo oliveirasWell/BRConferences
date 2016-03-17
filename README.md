@@ -53,6 +53,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [Hackathon FIESP](http://hotsite.fiesp.com.br/hackathon/) | **August** | Sao Paulo
 * [Brazil JS Conf](http://braziljs.com.br/) | **August** | Porto Alegre
 * [SEMCOMP](https://semcomp.icmc.usp.br) | **August** | Sao Carlos
+* [FrontInBH](http://frontinbh.com.br/) | **August 6** | Belo Horizonte
 
 #### September
 
