@@ -40,6 +40,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 
 * [ASP.NET Brasil Conference 2016](http://www.aspnetbr.com/) | **Jun 4** | São Paulo
 * [Tech Interior 2016](http://techinterior.com.br/) | **June 11** | Jaboticabal
+* [FrontInSM](http://frontinsm.com.br/) | **June 27** | Santa Maria
 
 #### July
 
