@@ -13,6 +13,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 
 * [Semana da Mulher na Tecnologia](http://semanadamulhernatecnologia.com.br/) | **March 7-13** | Sao Paulo
 * [L'Oréal Mobile APP Hackathon](http://www.beautyhack.com.br) | **March 18-20** | Sao Paulo
+* [Maratona WoMakersCode 2016](http://www.eventick.com.br/maratona-wmc16) | **March 19** | Porto Alegre
 * [PHP Experience](http://phpexperience.imasters.com.br) | **March 21-22** | Sao Paulo
 * [QCon Sao Paulo](http://qconsp.com/) | **March 28 - April 1** | Sao Paulo
 
@@ -38,6 +39,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 
 * [ASP.NET Brasil Conference 2016](http://www.aspnetbr.com/) | **Jun 4** | São Paulo
 * [API Experience](http://www.apiexperience.com.br/) | **Jun 9** | Campinas
+* [Tech Interior 2016](http://techinterior.com.br/) | **June 11** | Jaboticabal
 
 #### July
 
@@ -50,6 +52,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [Hackathon FIESP](http://hotsite.fiesp.com.br/hackathon/) | **August** | Sao Paulo
 * [Brazil JS Conf](http://braziljs.com.br/) | **August** | Porto Alegre
 * [SEMCOMP](https://semcomp.icmc.usp.br) | **August** | Sao Carlos
+* [FrontInBH](http://frontinbh.com.br/) | **August 6** | Belo Horizonte
 
 #### September
 
@@ -66,6 +69,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [FATEC Congresso de Tecnologia](http://congresso.fatecsp.br/) | **October** | Sao Paulo
 * [QCon Rio de Janeiro](http://qconrio.com/) | **October 3-7** | Rio de Janeiro
 * [TDC Porto Alegre](http://www.thedevelopersconference.com.br/) | **October 5-9** | Porto Alegre
+* [FrontEnd Carioca](http://frontendcarioca.com.br/) | **October 15** | Rio de Janeiro
 * [Futurecom](http://en.futurecom.com.br/) | **October 16-20** | Sao Paulo
 * [iMasters InterCon 2016](http://intercon.imasters.com.br) | **October 21-22** | Sao Paulo
 
