@@ -37,6 +37,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 #### June
 
 * [ASP.NET Brasil Conference 2016](http://www.aspnetbr.com/) | **Jun 4** | São Paulo
+* [API Experience](http://www.apiexperience.com.br/) | **Jun 9** | Campinas
 
 #### July
 
@@ -71,7 +72,6 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 #### November
 
 * [CASE](http://www.case2015.com.br/) | **November** | Sao Paulo
-* [API Experience](http://www.apiexperience.com.br/) | **November** | Campinas
 * [GDG DevFest Sul](http://devfestsul.com.br/) | **November** | Sao Paulo
 * [GDG DevFest Sao Paulo](http://sp.devfest.com.br/) | **November** | Sao Paulo
 * [Developer Week Porto Alegre](http://developerweek.imasters.com.br/porto-alegre/) | **November** | Porto Alegre
