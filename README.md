@@ -32,6 +32,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [#HelloWorld Sao Paulo](https://helloworldsaopaulo.splashthat.com/) | **May 10** | Sao Paulo
 * [TDC Florianopolis](http://www.thedevelopersconference.com.br/) | **May 12-14** | Florianopolis
 * [Mobile Brazil Conference](http://mobilebrazilconference.com.br/) | **May 13-14** | Sao Paulo
+* [FrontInFortaleza 2016](http://www.frontinfortaleza.com.br/) | **May 16** | Fortaleza
 * [Mobile & Cloud Hack Days](http://mobilecloud.azurewebsites.net/) | **May 23-27** | On Line - Sao Paulo
 * [CEJS](http://www.cejs.com.br/) | **May 28** | Fortaleza
 
