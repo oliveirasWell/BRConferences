@@ -7,6 +7,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [Campus Party](http://brasil.campus-party.org/) | **January 26-31** | Sao Paulo
 * [Semana da Mulher na Tecnologia](http://semanadamulhernatecnologia.com.br/) | **March 7-13** | Sao Paulo
 * [PHP Experience](http://phpexperience.imasters.com.br) | **March 21-22** | Sao Paulo
+* [MSP Coding Day - 2º Edição](https://www.eventbrite.com.br/e/msp-coding-day-2o-edicao-tickets-23619938873) | **March 26** | Sao Paulo
 * [QCon Sao Paulo](http://qconsp.com/) | **March 28 - April 1** | Sao Paulo
 * [Alagoas Dev Day](http://alagoasdevday.com.br/) | **April** | Alagoas
 * [K-Tab](http://www.k-tab.com.br/) | **April 4** | Recife
