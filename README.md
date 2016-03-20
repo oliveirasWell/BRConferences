@@ -18,6 +18,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [Mobile & Cloud Hack Days](http://mobilecloud.azurewebsites.net/) | **May 23-27** | On Line - Sao Paulo
 * [CEJS](http://www.cejs.com.br/) | **May 28** | Fortaleza
 * [TDC Sao Paulo](http://www.thedevelopersconference.com.br/) | **July 5-9** | Sao Paulo
+* [3° Encontro Metropolitano de Tecnologia da Baixada Santista](https://doity.com.br/3emtbs) | **July 9** | Sao Paulo
 * [FISL](http://softwarelivre.org/fisl16) | **July 15-16** | 
 * [Hackathon FIESP](http://hotsite.fiesp.com.br/hackathon/) | **August** | Sao Paulo
 * [Brazil JS Conf](http://braziljs.com.br/) | **August** | Porto Alegre
