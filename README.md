@@ -15,7 +15,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [L'Oréal Mobile APP Hackathon](http://www.beautyhack.com.br) | **March 18-20** | Sao Paulo
 * [Maratona WoMakersCode 2016](http://www.eventick.com.br/maratona-wmc16) | **March 19** | Porto Alegre
 * [PHP Experience](http://phpexperience.imasters.com.br) | **March 21-22** | Sao Paulo
-* [MSP Coding Day - 2º Edição](https://www.eventbrite.com.br/e/msp-coding-day-2o-edicao-tickets-23619938873) | **March 26** | Sao Paulo
+* [MSP Coding Day - 2º Edição](https://www.eventbrite.com.br/e/msp-coding-day-2o-edicao-tickets-23619938873) | **March 26** | Sao Vicente
 * [QCon Sao Paulo](http://qconsp.com/) | **March 28 - April 1** | Sao Paulo
 
 #### April
@@ -46,7 +46,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 
 * [Front in sampa](http://frontinsampa.com.br/) | **July 2** | Sao Paulo
 * [TDC Sao Paulo](http://www.thedevelopersconference.com.br/) | **July 5-9** | Sao Paulo
-* [3° Encontro Metropolitano de Tecnologia da Baixada Santista](https://doity.com.br/3emtbs) | **July 9** | Sao Paulo
+* [3° Encontro Metropolitano de Tecnologia da Baixada Santista](https://doity.com.br/3emtbs) | **July 9** | Santos
 * [FISL](http://softwarelivre.org/fisl16) | **July 15-16** | 
 
 #### August
