@@ -11,7 +11,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 
 #### March
 
-* [Semana da Mulher na Tecnologia](http://semanadamulhernatecnologia.com.br/) | **March 7-13** | Sao Paulo
+* [Semana da Mulher na Tecnologia](http://semanadamulhernatecnologia.com.br/) | **March 05-12** | Sao Paulo
 * [L'Oréal Mobile APP Hackathon](http://www.beautyhack.com.br) | **March 18-20** | Sao Paulo
 * [Maratona WoMakersCode 2016](http://www.eventick.com.br/maratona-wmc16) | **March 19** | Porto Alegre
 * [PHP Experience](http://phpexperience.imasters.com.br) | **March 21-22** | Sao Paulo
@@ -25,7 +25,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [FrontInCuiabá](http://frontincuiaba.com.br/) | **April 16** | Cuiaba
 * [Global Azure Bootcamp](http://global.azurebootcamp.net) | **April 16** |  Brasília, Goiânia, Uberlândia, Curitiba, Porto Alegre, Rio de Janeiro, Joinville, Rio Claro, São José dos Campos, Taboão da Serra
 * [JSDay](http://jsday.com.br/) | **April 23** | Campina Grande
-* [TechParty](http://techparty.faccat.br/) | **April 25-28** | Taquara
+* [TechParty](http://techparty.faccat.br/) | **April 25-29** | Taquara
 
 
 #### May
