@@ -24,6 +24,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [Hackathon Globo](http://hackathonglobo.com) | **April 09-10** | Rio de Janeiro
 * [FrontInCuiabá](http://frontincuiaba.com.br/) | **April 16** | Cuiaba
 * [Global Azure Bootcamp](http://global.azurebootcamp.net) | **April 16** |  Brasília, Goiânia, Uberlândia, Curitiba, Porto Alegre, Rio de Janeiro, Joinville, Rio Claro, São José dos Campos, Taboão da Serra
+* [Agile Testers Conference 2016](http://conferencia.agiletesters.com.br/) | **April 16** |  São Paulo
 * [JSDay](http://jsday.com.br/) | **April 23** | Campina Grande
 * [TechParty](http://techparty.faccat.br/) | **April 25-29** | Taquara
 
