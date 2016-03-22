@@ -42,6 +42,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [ASP.NET Brasil Conference 2016](http://www.aspnetbr.com/) | **Jun 4** | São Paulo
 * [API Experience](http://www.apiexperience.com.br/) | **Jun 9** | Campinas
 * [Tech Interior 2016](http://techinterior.com.br/) | **June 11** | Jaboticabal
+* [Visual Studio Summit 2016](http://www.visualstudiosummit.com.br/) | **June 11** | São Paulo
 
 #### July
 
