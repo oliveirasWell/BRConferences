@@ -31,6 +31,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 
 #### May
 
+* [DevOps Summit Brasil](http://www.devopssummitbrasil.com/) | **May 06-07** | São Paulo
 * [#HelloWorld Sao Paulo](https://helloworldsaopaulo.splashthat.com/) | **May 10** | Sao Paulo
 * [TDC Florianopolis](http://www.thedevelopersconference.com.br/) | **May 12-14** | Florianopolis
 * [Mobile Brazil Conference](http://mobilebrazilconference.com.br/) | **May 13-14** | Sao Paulo
@@ -42,6 +43,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [ASP.NET Brasil Conference 2016](http://www.aspnetbr.com/) | **Jun 4** | São Paulo
 * [API Experience](http://www.apiexperience.com.br/) | **Jun 9** | Campinas
 * [Tech Interior 2016](http://techinterior.com.br/) | **June 11** | Jaboticabal
+* [Visual Studio Summit 2016](http://www.visualstudiosummit.com.br/) | **June 11** | São Paulo
 
 #### July
 
