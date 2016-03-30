@@ -26,6 +26,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [Global Azure Bootcamp](http://global.azurebootcamp.net) | **April 16** |  Brasília, Goiânia, Uberlândia, Curitiba, Porto Alegre, Rio de Janeiro, Joinville, Rio Claro, São José dos Campos, Taboão da Serra
 * [Agile Testers Conference 2016](http://conferencia.agiletesters.com.br/) | **April 16** |  São Paulo
 * [JSDay](http://jsday.com.br/) | **April 23** | Campina Grande
+* [RSJS](http://rsjs.org/2016/) | **April 23** | Porto Alegre
 * [TechParty](http://techparty.faccat.br/) | **April 25-29** | Taquara
 
 
