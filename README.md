@@ -51,6 +51,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [Front in sampa](http://frontinsampa.com.br/) | **July 2** | Sao Paulo
 * [TDC Sao Paulo](http://www.thedevelopersconference.com.br/) | **July 5-9** | Sao Paulo
 * [3° Encontro Metropolitano de Tecnologia da Baixada Santista](https://doity.com.br/3emtbs) | **July 9** | Santos
+* [LUA CONF](http://luaconf.com/) | **July 9** | Rio de Janeiro
 * [FISL](http://softwarelivre.org/fisl16) | **July 15-16** | 
 
 #### August
