@@ -41,6 +41,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 
 #### June
 
+* [AWS Summit São Paulo](https://aws.amazon.com/pt/summits/sao-paulo/) | **Jun 02-03** | São Paulo
 * [ASP.NET Brasil Conference 2016](http://www.aspnetbr.com/) | **Jun 4** | São Paulo
 * [API Experience](http://www.apiexperience.com.br/) | **Jun 9** | Campinas
 * [Tech Interior 2016](http://techinterior.com.br/) | **June 11** | Jaboticabal
