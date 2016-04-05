@@ -36,6 +36,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [DevOps Summit Brasil](http://www.devopssummitbrasil.com/) | **May 06-07** | São Paulo
 * [#HelloWorld Sao Paulo](https://helloworldsaopaulo.splashthat.com/) | **May 10** | Sao Paulo
 * [TDC Florianopolis](http://www.thedevelopersconference.com.br/) | **May 12-14** | Florianopolis
+* [DevCamp](http://www.devcamp.com.br/) | **May 13** | Campinas
 * [Mobile Brazil Conference](http://mobilebrazilconference.com.br/) | **May 13-14** | Sao Paulo
 * [Mobile & Cloud Hack Days](http://mobilecloud.azurewebsites.net/) | **May 23-27** | On Line - Sao Paulo
 * [CEJS](http://www.cejs.com.br/) | **May 28** | Fortaleza
