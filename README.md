@@ -34,6 +34,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 #### May
 
 * [DevOps Summit Brasil](http://www.devopssummitbrasil.com/) | **May 06-07** | São Paulo
+* [CSSday](http://cssday.com.br/) | **May 07** | Maceió
 * [#HelloWorld Sao Paulo](https://helloworldsaopaulo.splashthat.com/) | **May 10** | Sao Paulo
 * [TDC Florianopolis](http://www.thedevelopersconference.com.br/) | **May 12-14** | Florianopolis
 * [DevCamp](http://www.devcamp.com.br/) | **May 13** | Campinas
