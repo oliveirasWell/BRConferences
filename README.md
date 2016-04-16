@@ -34,12 +34,14 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 
 #### May
 
+* [18º Encontro Locaweb Recife](http://eventos.locaweb.com.br/18o-encontro-locaweb-recife/) | **May 05** | Recife
 * [DevOps Summit Brasil](http://www.devopssummitbrasil.com/) | **May 06-07** | São Paulo
 * [CSSday](http://cssday.com.br/) | **May 07** | Maceió
 * [#HelloWorld Sao Paulo](https://helloworldsaopaulo.splashthat.com/) | **May 10** | Sao Paulo
 * [TDC Florianopolis](http://www.thedevelopersconference.com.br/) | **May 12-14** | Florianopolis
 * [DevCamp](http://www.devcamp.com.br/) | **May 13** | Campinas
 * [Mobile Brazil Conference](http://mobilebrazilconference.com.br/) | **May 13-14** | Sao Paulo
+* [18º Encontro Locaweb Curitiba](http://eventos.locaweb.com.br/18o-encontro-locaweb-curitiba/) | **May 21** | Curitiba
 * [Mobile & Cloud Hack Days](http://mobilecloud.azurewebsites.net/) | **May 23-27** | On Line - Sao Paulo
 * [CEJS](http://www.cejs.com.br/) | **May 28** | Fortaleza
 
@@ -47,9 +49,11 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 
 * [AWS Summit São Paulo](https://aws.amazon.com/pt/summits/sao-paulo/) | **Jun 02-03** | São Paulo
 * [ASP.NET Brasil Conference 2016](http://www.aspnetbr.com/) | **Jun 4** | São Paulo
+* [18º Encontro Locaweb Porto Alegre](http://eventos.locaweb.com.br/18o-encontro-locaweb-porto-alegre/) | **June 09** | Porto Alegre
 * [API Experience](http://www.apiexperience.com.br/) | **Jun 9** | Campinas
 * [Tech Interior 2016](http://techinterior.com.br/) | **June 11** | Jaboticabal
 * [Visual Studio Summit 2016](http://www.visualstudiosummit.com.br/) | **June 11** | São Paulo
+* [18º Encontro Locaweb São Paulo](http://eventos.locaweb.com.br/18o-encontro-locaweb-sao-paulo/) | **June 22** | São Paulo
 
 #### July
 
