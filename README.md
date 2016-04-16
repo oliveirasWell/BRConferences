@@ -51,6 +51,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [ASP.NET Brasil Conference 2016](http://www.aspnetbr.com/) | **Jun 4** | São Paulo
 * [18º Encontro Locaweb Porto Alegre](http://eventos.locaweb.com.br/18o-encontro-locaweb-porto-alegre/) | **June 09** | Porto Alegre
 * [API Experience](http://www.apiexperience.com.br/) | **Jun 9** | Campinas
+* [Python Nordeste](http://2016.pythonnordeste.org/) | **Jun 09-11** | Teresina
 * [Tech Interior 2016](http://techinterior.com.br/) | **June 11** | Jaboticabal
 * [Visual Studio Summit 2016](http://www.visualstudiosummit.com.br/) | **June 11** | São Paulo
 * [18º Encontro Locaweb São Paulo](http://eventos.locaweb.com.br/18o-encontro-locaweb-sao-paulo/) | **June 22** | São Paulo
