@@ -22,6 +22,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 
 * [Congresso de Mobile](http://congressodemobile.com.br) | **April 04-08** | Online
 * [Hackathon Globo](http://hackathonglobo.com) | **April 09-10** | Rio de Janeiro
+* [Zabbix Conference LatAm](http://www.zabbix.com/conference_latam_2016.php) | **April 15-16** | Porto Alegre
 * [FrontInCuiabá](http://frontincuiaba.com.br/) | **April 16** | Cuiaba
 * [AngelHack São Paulo 2016](https://www.eventbrite.com/e/angelhack-sao-paulo-2016-tickets-22430203342) | **April 16** | Sao Paulo
 * [Global Azure Bootcamp](http://global.azurebootcamp.net) | **April 16** |  Brasília, Goiânia, Uberlândia, Curitiba, Porto Alegre, Rio de Janeiro, Joinville, Rio Claro, São José dos Campos, Taboão da Serra
