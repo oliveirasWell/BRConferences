@@ -63,7 +63,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [NodeConf Brazil](http://brazil.nodeconf.com/) | **July 4-5** | Sao Paulo
 * [3° Encontro Metropolitano de Tecnologia da Baixada Santista](https://doity.com.br/3emtbs) | **July 9** | Santos
 * [LUA CONF](http://luaconf.com/) | **July 9** | Rio de Janeiro
-* [FISL](http://softwarelivre.org/fisl16) | **July 15-16** | 
+* [FISL](http://softwarelivre.org/fisl16) | **July 15-16** | Porto Alegre
 
 #### August
 
@@ -74,7 +74,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 
 #### September
 
-* [Brapps](http://brappsbrasil.com/) | **September** | 
+* [Brapps](http://brappsbrasil.com/) | **September** | Brasilia
 * [Mobile Summit](http://www.msummit.com.br/) | **September** | Porto Alegre
 * [GDG DevFest Goias](http://devfestgoias.com.br/) | **September** | Goias
 * [RubyConf](http://www.rubyconf.com.br/) | **September** | Sao Paulo
