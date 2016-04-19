@@ -87,6 +87,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [FATEC Congresso de Tecnologia](http://congresso.fatecsp.br/) | **October** | Sao Paulo
 * [QCon Rio de Janeiro](http://qconrio.com/) | **October 3-7** | Rio de Janeiro
 * [TDC Porto Alegre](http://www.thedevelopersconference.com.br/) | **October 5-9** | Porto Alegre
+* [Python Brazil](http://2016.pythonbrasil.org.br/) | **October 13-18** | Florianopolis
 * [FrontEnd Carioca](http://frontendcarioca.com.br/) | **October 15** | Rio de Janeiro
 * [Futurecom](http://en.futurecom.com.br/) | **October 16-20** | Sao Paulo
 * [iMasters InterCon 2016](http://intercon.imasters.com.br) | **October 21-22** | Sao Paulo
@@ -98,7 +99,6 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [GDG DevFest Sao Paulo](http://sp.devfest.com.br/) | **November** | Sao Paulo
 * [Developer Week Porto Alegre](http://developerweek.imasters.com.br/porto-alegre/) | **November** | Porto Alegre
 * [Big Data Week](http://bigdataweek.com.br/) | **November** | Sao Paulo
-* [Python Brazil](http://2016.pythonbrasil.org.br/) | **November** | Sao Jose dos Campos
 
 #### December
 
