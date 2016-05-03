@@ -48,6 +48,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [API Experience](http://www.apiexperience.com.br/) | **Jun 9** | Campinas
 * [Tech Interior 2016](http://techinterior.com.br/) | **June 11** | Jaboticabal
 * [Visual Studio Summit 2016](http://www.visualstudiosummit.com.br/) | **June 11** | São Paulo
+* [JavaOne Latin Amercia 2016](https://www.oracle.com/br/javaone/index.html) | **June 28-30** | São Paulo
 
 #### July
 
