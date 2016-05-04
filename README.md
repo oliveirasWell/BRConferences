@@ -75,7 +75,6 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 #### September
 
 * [Brapps](http://brappsbrasil.com/) | **September** | Brasilia
-* [Mobile Summit](http://www.msummit.com.br/) | **September** | Porto Alegre
 * [GDG DevFest Goias](http://devfestgoias.com.br/) | **September** | Goias
 * [RubyConf](http://www.rubyconf.com.br/) | **September** | Sao Paulo
 * [Android Dev Conference](http://androidconference.imasters.com.br) | **September 5-6** | Sao Paulo
@@ -94,6 +93,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 
 #### November
 
+* [Mobile Summit](http://www.msummit.com.br/) | **November 18-19** | Porto Alegre
 * [CASE](http://www.case2015.com.br/) | **November** | Sao Paulo
 * [GDG DevFest Sul](http://devfestsul.com.br/) | **November** | Sao Paulo
 * [GDG DevFest Sao Paulo](http://sp.devfest.com.br/) | **November** | Sao Paulo
