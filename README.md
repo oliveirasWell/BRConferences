@@ -43,11 +43,11 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [Mobile Brazil Conference](http://mobilebrazilconference.com.br/) | **May 13-14** | Sao Paulo
 * [18º Encontro Locaweb Curitiba](http://eventos.locaweb.com.br/18o-encontro-locaweb-curitiba/) | **May 21** | Curitiba
 * [Mobile & Cloud Hack Days](http://mobilecloud.azurewebsites.net/) | **May 23-27** | On Line - Sao Paulo
-* [CEJS](http://www.cejs.com.br/) | **May 28** | Fortaleza
 
 #### June
 
 * [AWS Summit São Paulo](https://aws.amazon.com/pt/summits/sao-paulo/) | **Jun 02-03** | São Paulo
+* [CEJS](http://www.cejs.com.br/) | **Jun 04** | Fortaleza
 * [ASP.NET Brasil Conference 2016](http://www.aspnetbr.com/) | **Jun 4** | São Paulo
 * [18º Encontro Locaweb Porto Alegre](http://eventos.locaweb.com.br/18o-encontro-locaweb-porto-alegre/) | **June 09** | Porto Alegre
 * [API Experience](http://www.apiexperience.com.br/) | **Jun 9** | Campinas
