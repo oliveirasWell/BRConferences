@@ -57,7 +57,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [18º Encontro Locaweb São Paulo](http://eventos.locaweb.com.br/18o-encontro-locaweb-sao-paulo/) | **June 22** | São Paulo
 
 #### July
-
+* [Androidos](http://www.androidosday.com/) | **July 1-2** | João Pessoa
 * [Front in sampa](http://frontinsampa.com.br/) | **July 2** | Sao Paulo
 * [TDC Sao Paulo](http://www.thedevelopersconference.com.br/) | **July 5-9** | Sao Paulo
 * [NodeConf Brazil](http://brazil.nodeconf.com/) | **July 4-5** | Sao Paulo
