@@ -99,7 +99,6 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [GDG DevFest Sao Paulo](http://sp.devfest.com.br/) | **November** | Sao Paulo
 * [Developer Week Porto Alegre](http://developerweek.imasters.com.br/porto-alegre/) | **November** | Porto Alegre
 * [Big Data Week](http://bigdataweek.com.br/) | **November** | Sao Paulo
-* [Mobile Summit](http://www.msummit.com.br/) | **November 18-19** | Porto Alegre
 
 #### December
 
