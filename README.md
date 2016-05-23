@@ -1,4 +1,4 @@
-#Conferências e Eventos de Tecnologia e de Startups no Brasil
+﻿#Conferências e Eventos de Tecnologia e de Startups no Brasil
 ##Brazilian Tech and Startup Conferences
 
 I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe) - [CocoaConferences](https://github.com/Lascorbe/CocoaConferences) list
@@ -55,6 +55,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [Tech Interior 2016](http://techinterior.com.br/) | **June 11** | Jaboticabal
 * [Visual Studio Summit 2016](http://www.visualstudiosummit.com.br/) | **June 11** | São Paulo
 * [18º Encontro Locaweb São Paulo](http://eventos.locaweb.com.br/18o-encontro-locaweb-sao-paulo/) | **June 22** | São Paulo
+* [Developer Day São Paulo](http://womakerscode.org/developer-day-sao-paulo.html) | **June 25** | São Paulo
 * [JavaOne Latin America 2016](https://www.oracle.com/br/javaone/index.html) | **June 28-30** | São Paulo
 
 #### July
