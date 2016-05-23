@@ -43,6 +43,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [Mobile Brazil Conference](http://mobilebrazilconference.com.br/) | **May 13-14** | Sao Paulo
 * [18º Encontro Locaweb Curitiba](http://eventos.locaweb.com.br/18o-encontro-locaweb-curitiba/) | **May 21** | Curitiba
 * [Mobile & Cloud Hack Days](http://mobilecloud.azurewebsites.net/) | **May 23-27** | On Line - Sao Paulo
+* [BruHack || a Primeira Hackathon de Bauru](http://www.bruhack.com) | **May 27-28** | Bauru
 
 #### June
 
