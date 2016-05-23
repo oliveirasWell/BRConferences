@@ -41,6 +41,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [TDC Florianopolis](http://www.thedevelopersconference.com.br/) | **May 12-14** | Florianopolis
 * [DevCamp](http://www.devcamp.com.br/) | **May 13** | Campinas
 * [Mobile Brazil Conference](http://mobilebrazilconference.com.br/) | **May 13-14** | Sao Paulo
+* [Google I/O Extended São Paulo '16](https://events.withgoogle.com/google-io-extended-sao-paulo-16/) | **May 18** | Sao Paulo
 * [18º Encontro Locaweb Curitiba](http://eventos.locaweb.com.br/18o-encontro-locaweb-curitiba/) | **May 21** | Curitiba
 * [Mobile & Cloud Hack Days](http://mobilecloud.azurewebsites.net/) | **May 23-27** | On Line - Sao Paulo
 * [BruHack || a Primeira Hackathon de Bauru](http://www.bruhack.com) | **May 27-28** | Bauru
