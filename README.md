@@ -48,6 +48,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 
 #### June
 
+* [React SP #1](http://www.meetup.com/pt-BR/ReactJS-SP/events/231394695/) | **Jun 02** | São Paulo
 * [AWS Summit São Paulo](https://aws.amazon.com/pt/summits/sao-paulo/) | **Jun 02-03** | São Paulo
 * [CEJS](http://www.cejs.com.br/) | **Jun 04** | Fortaleza
 * [ASP.NET Brasil Conference 2016](http://www.aspnetbr.com/) | **Jun 4** | São Paulo
