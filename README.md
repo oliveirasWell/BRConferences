@@ -48,13 +48,13 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 
 #### June
 
-* [React SP #1](http://www.meetup.com/pt-BR/ReactJS-SP/events/231394695/) | **Jun 02** | São Paulo
-* [AWS Summit São Paulo](https://aws.amazon.com/pt/summits/sao-paulo/) | **Jun 02-03** | São Paulo
-* [CEJS](http://www.cejs.com.br/) | **Jun 04** | Fortaleza
-* [ASP.NET Brasil Conference 2016](http://www.aspnetbr.com/) | **Jun 4** | São Paulo
+* [React SP #1](http://www.meetup.com/pt-BR/ReactJS-SP/events/231394695/) | **June 02** | São Paulo
+* [AWS Summit São Paulo](https://aws.amazon.com/pt/summits/sao-paulo/) | **June 02-03** | São Paulo
+* [CEJS](http://www.cejs.com.br/) | **June 04** | Fortaleza
+* [ASP.NET Brasil Conference 2016](http://www.aspnetbr.com/) | **June 4** | São Paulo
 * [18º Encontro Locaweb Porto Alegre](http://eventos.locaweb.com.br/18o-encontro-locaweb-porto-alegre/) | **June 09** | Porto Alegre
-* [API Experience](http://www.apiexperience.com.br/) | **Jun 9** | Campinas
-* [Python Nordeste](http://2016.pythonnordeste.org/) | **Jun 09-11** | Teresina
+* [API Experience](http://www.apiexperience.com.br/) | **June 9** | Campinas
+* [Python Nordeste](http://2016.pythonnordeste.org/) | **June 09-11** | Teresina
 * [Congresso de TI 4ª Edição](http://congressodeti.com.br/) | **June 06-10** | Online
 * [Tech Interior 2016](http://techinterior.com.br/) | **June 11** | Jaboticabal
 * [Visual Studio Summit 2016](http://www.visualstudiosummit.com.br/) | **June 11** | São Paulo
@@ -84,7 +84,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [GDG DevFest Goias](http://devfestgoias.com.br/) | **September** | Goias
 * [RubyConf](http://www.rubyconf.com.br/) | **September** | Sao Paulo
 * [Android Dev Conference](http://androidconference.imasters.com.br) | **September 5-6** | Sao Paulo
- 
+
 #### October
 
 * [CodeGirl](http://euvou.codegirl.com.br/) | **October** | Natal
