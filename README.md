@@ -92,6 +92,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [GDG DevFest Nordeste](https://2015.devfestne.com.br/) | **October** | Recife
 * [FATEC Congresso de Tecnologia](http://congresso.fatecsp.br/) | **October** | Sao Paulo
 * [QCon Rio de Janeiro](http://qconrio.com/) | **October 3-7** | Rio de Janeiro
+* [PG Day Campinas](http://pgdaycampinas.com.br/) | **October 6** | Campinas
 * [TDC Porto Alegre](http://www.thedevelopersconference.com.br/) | **October 5-9** | Porto Alegre
 * [Python Brazil](http://2016.pythonbrasil.org.br/) | **October 13-18** | Florianopolis
 * [FrontEnd Carioca](http://frontendcarioca.com.br/) | **October 15** | Rio de Janeiro
