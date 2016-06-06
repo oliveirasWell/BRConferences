@@ -78,6 +78,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [Brazil JS Conf](http://braziljs.com.br/) | **August** | Porto Alegre
 * [SEMCOMP](https://semcomp.icmc.usp.br) | **August** | Sao Carlos
 * [FrontInBH](http://frontinbh.com.br/) | **August 6** | Belo Horizonte
+* [Campus Party Recife](http://recife.campus-party.org) | **August 20-21** | Recife
 
 #### September
 
