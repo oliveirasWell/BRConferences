@@ -67,6 +67,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [Androidos](http://www.androidosday.com/) | **July 1-2** | João Pessoa
 * [Code in the Dark Brasil](http://www.codeinthedark.com.br/) | **July 1** | Sao Paulo
 * [Front in sampa](http://frontinsampa.com.br/) | **July 2** | Sao Paulo
+* [Front in Natal](http://www.eventick.com.br/frontinnatal) | **July 09** | Natal
 * [TDC Sao Paulo](http://www.thedevelopersconference.com.br/) | **July 5-9** | Sao Paulo
 * [NodeConf Brazil](http://brazil.nodeconf.com/) | **July 4-5** | Sao Paulo
 * [3° Encontro Metropolitano de Tecnologia da Baixada Santista](https://doity.com.br/3emtbs) | **July 9** | Santos
