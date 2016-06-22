@@ -71,7 +71,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [NodeConf Brazil](http://brazil.nodeconf.com/) | **July 4-5** | Sao Paulo
 * [3° Encontro Metropolitano de Tecnologia da Baixada Santista](https://doity.com.br/3emtbs) | **July 9** | Santos
 * [LUA CONF](http://luaconf.com/) | **July 9** | Rio de Janeiro
-* [FISL](http://softwarelivre.org/fisl16) | **July 15-16** | Porto Alegre
+* [FISL 17](http://softwarelivre.org/fisl17) | **July 13-16** | Porto Alegre
 
 #### August
 
