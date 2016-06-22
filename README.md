@@ -61,6 +61,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [Visual Studio Summit 2016](http://www.visualstudiosummit.com.br/) | **June 11** | São Paulo
 * [18º Encontro Locaweb São Paulo](http://eventos.locaweb.com.br/18o-encontro-locaweb-sao-paulo/) | **June 22** | São Paulo
 * [Developer Day São Paulo](http://womakerscode.org/developer-day-sao-paulo.html) | **June 25** | São Paulo
+* [SAMPA JS](http://sampajs.site/) | **June 25** | São Paulo
 * [JavaOne Latin America 2016](https://www.oracle.com/br/javaone/index.html) | **June 28-30** | São Paulo
 
 #### July
@@ -73,6 +74,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [3° Encontro Metropolitano de Tecnologia da Baixada Santista](https://doity.com.br/3emtbs) | **July 9** | Santos
 * [LUA CONF](http://luaconf.com/) | **July 9** | Rio de Janeiro
 * [FISL 17](http://softwarelivre.org/fisl17) | **July 13-16** | Porto Alegre
+* [Mundo API](http://www.mundoapi.net/) | **July 14** | Sao Paulo
 
 #### August
 
@@ -91,8 +93,6 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 
 #### October
 
-* [CodeGirl](http://euvou.codegirl.com.br/) | **October** | Natal
-* [GDG DevFest Nordeste](https://2015.devfestne.com.br/) | **October** | Recife
 * [FATEC Congresso de Tecnologia](http://congresso.fatecsp.br/) | **October** | Sao Paulo
 * [QCon Rio de Janeiro](http://qconrio.com/) | **October 3-7** | Rio de Janeiro
 * [PG Day Campinas](http://pgdaycampinas.com.br/) | **October 6** | Campinas
@@ -101,6 +101,8 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [FrontEnd Carioca](http://frontendcarioca.com.br/) | **October 15** | Rio de Janeiro
 * [Futurecom](http://en.futurecom.com.br/) | **October 16-20** | Sao Paulo
 * [iMasters InterCon 2016](http://intercon.imasters.com.br) | **October 21-22** | Sao Paulo
+* [CodeGirl](http://euvou.codegirl.com.br/) | **October 21** | Natal
+* [GDG DevFest Nordeste](https://2015.devfestne.com.br/) | **October 21** | Recife
 
 #### November
 
