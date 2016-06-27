@@ -79,10 +79,11 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 #### August
 
 * [Hackathon FIESP](http://hotsite.fiesp.com.br/hackathon/) | **August** | Sao Paulo
-* [Brazil JS Conf](http://braziljs.com.br/) | **August** | Porto Alegre
+* [Brazil JS Conf](http://braziljs.com.br/) | **August 26-27** | Porto Alegre
 * [SEMCOMP](https://semcomp.icmc.usp.br) | **August** | Sao Carlos
 * [FrontInBH](http://frontinbh.com.br/) | **August 6** | Belo Horizonte
 * [Campus Party Recife](http://recife.campus-party.org) | **August 20-21** | Recife
+* [GMIC](http://saopaulo.thegmic.com/) | **August 24** | Sao Paulo
 
 #### September
 
@@ -98,6 +99,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [PG Day Campinas](http://pgdaycampinas.com.br/) | **October 6** | Campinas
 * [TDC Porto Alegre](http://www.thedevelopersconference.com.br/) | **October 5-9** | Porto Alegre
 * [Python Brazil](http://2016.pythonbrasil.org.br/) | **October 13-18** | Florianopolis
+* [Web.br 2016 - W3C Brasil](http://conferenciaweb.w3c.br/) | **October 13-14** | Sao Paulo
 * [FrontEnd Carioca](http://frontendcarioca.com.br/) | **October 15** | Rio de Janeiro
 * [Futurecom](http://en.futurecom.com.br/) | **October 16-20** | Sao Paulo
 * [iMasters InterCon 2016](http://intercon.imasters.com.br) | **October 21-22** | Sao Paulo
