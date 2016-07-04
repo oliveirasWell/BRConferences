@@ -54,6 +54,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [ASP.NET Brasil Conference 2016](http://www.aspnetbr.com/) | **June 4** | São Paulo
 * [18º Encontro Locaweb Porto Alegre](http://eventos.locaweb.com.br/18o-encontro-locaweb-porto-alegre/) | **June 09** | Porto Alegre
 * [API Experience](http://www.apiexperience.com.br/) | **June 9** | Campinas
+* [3° Encontro Metropolitano de Tecnologia da Baixada Santista](https://doity.com.br/3emtbs) | **June 9** | Santos
 * [Python Nordeste](http://2016.pythonnordeste.org/) | **June 09-11** | Teresina
 * [Congresso de TI 4ª Edição](http://congressodeti.com.br/) | **June 06-10** | Online
 * [Tech Interior 2016](http://techinterior.com.br/) | **June 11** | Jaboticabal
@@ -71,10 +72,10 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [Front in Natal](http://www.eventick.com.br/frontinnatal) | **July 09** | Natal
 * [TDC Sao Paulo](http://www.thedevelopersconference.com.br/) | **July 5-9** | Sao Paulo
 * [NodeConf Brazil](http://brazil.nodeconf.com/) | **July 4-5** | Sao Paulo
-* [3° Encontro Metropolitano de Tecnologia da Baixada Santista](https://doity.com.br/3emtbs) | **July 9** | Santos
 * [LUA CONF](http://luaconf.com/) | **July 9** | Rio de Janeiro
 * [FISL 17](http://softwarelivre.org/fisl17) | **July 13-16** | Porto Alegre
-* [Mundo API](http://www.mundoapi.net/) | **July 14** | Sao Paulo
+* [Mundo API SP](http://www.mundoapi.net/) | **July 14** | Sao Paulo
+* [Mundo API RJ](http://www.mundoapi.net/) | **July 21** | Rio de Janeiro
 
 #### August
 * [FrontInBH](http://frontinbh.com.br/) | **August 6** | Belo Horizonte
