@@ -77,13 +77,13 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [Mundo API](http://www.mundoapi.net/) | **July 14** | Sao Paulo
 
 #### August
-
-* [Hackathon FIESP](http://hotsite.fiesp.com.br/hackathon/) | **August** | Sao Paulo
-* [Brazil JS Conf](http://braziljs.com.br/) | **August 26-27** | Porto Alegre
-* [SEMCOMP](https://semcomp.icmc.usp.br) | **August** | Sao Carlos
 * [FrontInBH](http://frontinbh.com.br/) | **August 6** | Belo Horizonte
+* [SEMCOMP](https://semcomp.icmc.usp.br) | **August 12-19** | Sao Carlos
+* [DevOps & Tests Hack Nights](http://devopstestshacknights.azurewebsites.net/) | **August 15-17** | On-Line
 * [Campus Party Recife](http://recife.campus-party.org) | **August 20-21** | Recife
+* [Hackathon FIESP](http://hotsite.fiesp.com.br/hackathon/) | **August 22-24** | Sao Paulo
 * [GMIC](http://saopaulo.thegmic.com/) | **August 24** | Sao Paulo
+* [Brazil JS Conf](http://braziljs.com.br/) | **August 26-27** | Porto Alegre
 
 #### September
 
