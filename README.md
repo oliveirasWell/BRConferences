@@ -66,15 +66,16 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [JavaOne Latin America 2016](https://www.oracle.com/br/javaone/index.html) | **June 28-30** | São Paulo
 
 #### July
-* [Androidos](http://www.androidosday.com/) | **July 1-2** | João Pessoa
 * [Code in the Dark Brasil](http://www.codeinthedark.com.br/) | **July 1** | Sao Paulo
+* [Androidos](http://www.androidosday.com/) | **July 1-2** | João Pessoa
 * [Front in sampa](http://frontinsampa.com.br/) | **July 2** | Sao Paulo
-* [Front in Natal](http://www.eventick.com.br/frontinnatal) | **July 09** | Natal
-* [TDC Sao Paulo](http://www.thedevelopersconference.com.br/) | **July 5-9** | Sao Paulo
 * [NodeConf Brazil](http://brazil.nodeconf.com/) | **July 4-5** | Sao Paulo
+* [TDC Sao Paulo](http://www.thedevelopersconference.com.br/) | **July 5-9** | Sao Paulo
+* [Front in Natal](http://www.eventick.com.br/frontinnatal) | **July 09** | Natal
 * [LUA CONF](http://luaconf.com/) | **July 9** | Rio de Janeiro
 * [FISL 17](http://softwarelivre.org/fisl17) | **July 13-16** | Porto Alegre
 * [Mundo API SP](http://www.mundoapi.net/) | **July 14** | Sao Paulo
+* [GDG DevFest Centro Sul Fluminense](http://www.eventick.com.br/gdg-devfest-centro-sul-flumine) | **July 16** | Sao Paulo
 * [Mundo API RJ](http://www.mundoapi.net/) | **July 21** | Rio de Janeiro
 
 #### August
