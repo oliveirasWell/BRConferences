@@ -77,6 +77,8 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [Mundo API SP](http://www.mundoapi.net/) | **July 14** | Sao Paulo
 * [GDG DevFest Centro Sul Fluminense](http://www.eventick.com.br/gdg-devfest-centro-sul-flumine) | **July 16** | Sao Paulo
 * [Mundo API RJ](http://www.mundoapi.net/) | **July 21** | Rio de Janeiro
+* [Google Launchpad Summit SP](https://events.withgoogle.com/google-launchpad-summit-sao-paulo-23-de-julho/) | **July 23** | Rio de Janeiro
+
 
 #### August
 * [FrontInBH](http://frontinbh.com.br/) | **August 6** | Belo Horizonte
