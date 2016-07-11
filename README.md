@@ -77,7 +77,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [Mundo API SP](http://www.mundoapi.net/) | **July 14** | Sao Paulo
 * [GDG DevFest Centro Sul Fluminense](http://www.eventick.com.br/gdg-devfest-centro-sul-flumine) | **July 16** | Sao Paulo
 * [Mundo API RJ](http://www.mundoapi.net/) | **July 21** | Rio de Janeiro
-* [Google Launchpad Summit SP](https://events.withgoogle.com/google-launchpad-summit-sao-paulo-23-de-julho/) | **July 23** Sao Paulo
+* [Google Launchpad Summit SP](https://events.withgoogle.com/google-launchpad-summit-sao-paulo-23-de-julho/) | **July 23** | Sao Paulo
 
 
 #### August
@@ -109,6 +109,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [iMasters InterCon 2016](http://intercon.imasters.com.br) | **October 21-22** | Sao Paulo
 * [CodeGirl](http://euvou.codegirl.com.br/) | **October 21** | Natal
 * [GDG DevFest Nordeste](https://2015.devfestne.com.br/) | **October 21** | Recife
+* [Gartner Symposium ITxpo](http://www.gartner.com/events/la/brazil-symposium) | **October 24-27** | Sao Paulo
 
 #### November
 
