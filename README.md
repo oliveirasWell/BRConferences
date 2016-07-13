@@ -82,6 +82,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 
 #### August
 * [FrontInBH](http://frontinbh.com.br/) | **August 6** | Belo Horizonte
+* [Digital Day 2016](https://digitalday.ciandt.com/sp/) | **August 7** | São Paulo
 * [SEMCOMP](https://semcomp.icmc.usp.br) | **August 12-19** | Sao Carlos
 * [DevOps & Tests Hack Nights](http://devopstestshacknights.azurewebsites.net/) | **August 15-17** | On-Line
 * [Campus Party Recife](http://recife.campus-party.org) | **August 20-21** | Recife
