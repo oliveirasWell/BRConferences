@@ -96,6 +96,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [GDG DevFest Goias](http://devfestgoias.com.br/) | **September** | Goias
 * [RubyConf](http://www.rubyconf.com.br/) | **September** | Sao Paulo
 * [Android Dev Conference](http://androidconference.imasters.com.br) | **September 5-6** | Sao Paulo
+* [Unite 16 Sao Paulo](https://unite.unity.com/2016/sao-paulo) | **September 11** | Sao Paulo
 
 #### October
 
@@ -106,6 +107,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [Python Brazil](http://2016.pythonbrasil.org.br/) | **October 13-18** | Florianopolis
 * [Web.br 2016 - W3C Brasil](http://conferenciaweb.w3c.br/) | **October 13-14** | Sao Paulo
 * [FrontEnd Carioca](http://frontendcarioca.com.br/) | **October 15** | Rio de Janeiro
+* [GDG DevFest Cerrado](http://devfestcerrado.com.br) | **October 15** | Goiania
 * [Futurecom](http://en.futurecom.com.br/) | **October 16-20** | Sao Paulo
 * [iMasters InterCon 2016](http://intercon.imasters.com.br) | **October 21-22** | Sao Paulo
 * [CodeGirl](http://euvou.codegirl.com.br/) | **October 21** | Natal
