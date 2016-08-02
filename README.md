@@ -95,7 +95,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [Brapps](http://brappsbrasil.com/) | **September** | Brasilia
 * [GDG DevFest Goias](http://devfestgoias.com.br/) | **September** | Goias
 * [RubyConf](http://www.rubyconf.com.br/) | **September** | Sao Paulo
-* [RanchoDev](http://www.ranchodev.com.br/)| **September 02** | Sorocaba
+* [RanchoDev](http://www.ranchodev.com.br/) | **September 02** | Sorocaba
 * [Android Dev Conference](http://androidconference.imasters.com.br) | **September 5-6** | Sao Paulo
 * [Unite 16 Sao Paulo](https://unite.unity.com/2016/sao-paulo) | **September 11** | Sao Paulo
 
