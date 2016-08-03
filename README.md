@@ -87,7 +87,6 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [DevOps & Tests Hack Nights](http://devopstestshacknights.azurewebsites.net/) | **August 15-17** | On-Line
 * [PHPSP + IMA](https://credencial.imasters.com.br/phpspima) | **August 20** | Campinas
 * [Campus Party Recife](http://recife.campus-party.org) | **August 20-21** | Recife
-* [Hackathon FIESP](http://hotsite.fiesp.com.br/hackathon/) | **August 22-24** | Sao Paulo
 * [GMIC](http://saopaulo.thegmic.com/) | **August 24** | Sao Paulo
 * [Brazil JS Conf](http://braziljs.com.br/) | **August 26-27** | Porto Alegre
 
@@ -103,6 +102,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 
 #### October
 
+* [Hackathon FIESP](http://hotsite.fiesp.com.br/hackathon/) | **October** | Sao Paulo
 * [FATEC Congresso de Tecnologia](http://congresso.fatecsp.br/) | **October** | Sao Paulo
 * [QCon Rio de Janeiro](http://qconrio.com/) | **October 3-7** | Rio de Janeiro
 * [PG Day Campinas](http://pgdaycampinas.com.br/) | **October 6** | Campinas
