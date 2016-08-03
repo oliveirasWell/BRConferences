@@ -85,6 +85,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [Digital Day 2016](https://digitalday.ciandt.com/sp/) | **August 7** | São Paulo
 * [SEMCOMP](https://semcomp.icmc.usp.br) | **August 12-19** | Sao Carlos
 * [DevOps & Tests Hack Nights](http://devopstestshacknights.azurewebsites.net/) | **August 15-17** | On-Line
+* [PHPSP + IMA](https://credencial.imasters.com.br/phpspima) | **August 20** | Campinas
 * [Campus Party Recife](http://recife.campus-party.org) | **August 20-21** | Recife
 * [Hackathon FIESP](http://hotsite.fiesp.com.br/hackathon/) | **August 22-24** | Sao Paulo
 * [GMIC](http://saopaulo.thegmic.com/) | **August 24** | Sao Paulo
@@ -94,10 +95,11 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 
 * [Brapps](http://brappsbrasil.com/) | **September** | Brasilia
 * [GDG DevFest Goias](http://devfestgoias.com.br/) | **September** | Goias
-* [RubyConf](http://www.rubyconf.com.br/) | **September** | Sao Paulo
 * [RanchoDev](http://www.ranchodev.com.br/) | **September 02** | Sorocaba
+* [Brasil Game Show](http://www.brasilgameshow.com.br) | **September 1-5** | Sao Paulo
 * [Android Dev Conference](http://androidconference.imasters.com.br) | **September 5-6** | Sao Paulo
 * [Unite 16 Sao Paulo](https://unite.unity.com/2016/sao-paulo) | **September 11** | Sao Paulo
+* [RubyConf Brasil](http://www.rubyconf.com.br/) | **September 23-24** | Sao Paulo
 
 #### October
 
