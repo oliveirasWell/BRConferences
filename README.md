@@ -84,11 +84,14 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [FrontInBH](http://frontinbh.com.br/) | **August 6** | Belo Horizonte
 * [Digital Day 2016](https://digitalday.ciandt.com/sp/) | **August 7** | São Paulo
 * [SEMCOMP](https://semcomp.icmc.usp.br) | **August 12-19** | Sao Carlos
+* [Debian Day](http://softwarelivre.org/debianday2016-curitiba) | **August 13** | Curitiba
 * [DevOps & Tests Hack Nights](http://devopstestshacknights.azurewebsites.net/) | **August 15-17** | On-Line
 * [PHPSP + IMA](https://credencial.imasters.com.br/phpspima) | **August 20** | Campinas
+* [2º Tech Day do GURU-PR](http://www.gurupr.org//eventos/2-tech-day-do-guru-pr) | **August 20** | Paraná
 * [Campus Party Recife](http://recife.campus-party.org) | **August 20-21** | Recife
 * [GMIC](http://saopaulo.thegmic.com/) | **August 24** | Sao Paulo
 * [Brazil JS Conf](http://braziljs.com.br/) | **August 26-27** | Porto Alegre
+* [VIII Fórum de Tecnologia em Software Livre](http://ftsl.org.br/) | **August 30-September 2** | Curitiba
 
 #### September
 
