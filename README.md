@@ -97,6 +97,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 
 * [Brapps](http://brappsbrasil.com/) | **September** | Brasilia
 * [GDG DevFest Goias](http://devfestgoias.com.br/) | **September** | Goias
+* [IoT Brasil](http://iotbrasil.org.br/) | **September 1-2** | Sao Paulo
 * [RanchoDev](http://www.ranchodev.com.br/) | **September 02** | Sorocaba
 * [Brasil Game Show](http://www.brasilgameshow.com.br) | **September 1-5** | Sao Paulo
 * [Android Dev Conference](http://androidconference.imasters.com.br) | **September 5-6** | Sao Paulo
@@ -112,20 +113,20 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [TDC Porto Alegre](http://www.thedevelopersconference.com.br/) | **October 5-9** | Porto Alegre
 * [Python Brazil](http://2016.pythonbrasil.org.br/) | **October 13-18** | Florianopolis
 * [Web.br 2016 - W3C Brasil](http://conferenciaweb.w3c.br/) | **October 13-14** | Sao Paulo
-* [FrontEnd Carioca](http://frontendcarioca.com.br/) | **October 15** | Rio de Janeiro
 * [GDG DevFest Cerrado](http://devfestcerrado.com.br) | **October 15** | Goiania
 * [Futurecom](http://en.futurecom.com.br/) | **October 16-20** | Sao Paulo
 * [iMasters InterCon 2016](http://intercon.imasters.com.br) | **October 21-22** | Sao Paulo
 * [CodeGirl](http://euvou.codegirl.com.br/) | **October 21** | Natal
-* [GDG DevFest Nordeste](https://2015.devfestne.com.br/) | **October 21** | Recife
+* [GDG DevFest Nordeste](https://devfestne.com.br/) | **October 21-22** | Recife
+* [FrontEnd Carioca](http://frontendcarioca.com.br/) | **October 22** | Rio de Janeiro
 * [Gartner Symposium ITxpo](http://www.gartner.com/events/la/brazil-symposium) | **October 24-27** | Sao Paulo
 
 #### November
 
+* [GopherCon Brasil](https://2016.gopherconbr.org/) | **November 04-06** | Florianopolis / SC 
+* [GDG DevFest Sul](http://devfestsul.com.br/) | **November 7-8** | Sao Paulo
 * [Mobile Summit](http://www.msummit.com.br/) | **November 18-19** | Porto Alegre
-* [GopherCon Brasil](https://2016.gopherconbr.org/) | **November 04-05** | Florianopolis / SC 
-* [CASE](http://www.case2015.com.br/) | **November** | Sao Paulo
-* [GDG DevFest Sul](http://devfestsul.com.br/) | **November** | Sao Paulo
+* [CASE](http://case.abstartups.com.br/) | **November** | Sao Paulo
 * [GDG DevFest Sao Paulo](http://sp.devfest.com.br/) | **November** | Sao Paulo
 * [Developer Week Porto Alegre](http://developerweek.imasters.com.br/porto-alegre/) | **November** | Porto Alegre
 * [Big Data Week](http://bigdataweek.com.br/) | **November** | Sao Paulo
