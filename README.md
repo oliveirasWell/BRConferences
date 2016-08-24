@@ -102,6 +102,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [Android Dev Conference](http://androidconference.com.br/) | **September 5-6** | Sao Paulo
 * [Unite 16 Sao Paulo](https://unite.unity.com/2016/sao-paulo) | **September 11** | Sao Paulo
 * [RubyConf Brasil](http://www.rubyconf.com.br/) | **September 23-24** | Sao Paulo
+* [Conexão Kinghost](http://www.conexaokinghost.com.br/) | **September 27-28** | Online
 
 #### October
 
