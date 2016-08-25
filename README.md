@@ -103,6 +103,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [Unite 16 Sao Paulo](https://unite.unity.com/2016/sao-paulo) | **September 11** | Sao Paulo
 * [ABCDev](http://2016.abcdevelopers.org/) | **September 17** | Sao Bernardo do Campo
 * [RubyConf Brasil](http://www.rubyconf.com.br/) | **September 23-24** | Sao Paulo
+* [Conexão Kinghost](http://www.conexaokinghost.com.br/) | **September 27-28** | Online
 
 #### October
 
