@@ -101,6 +101,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [Brasil Game Show](http://www.brasilgameshow.com.br) | **September 1-5** | Sao Paulo
 * [Android Dev Conference](http://androidconference.com.br/) | **September 5-6** | Sao Paulo
 * [Unite 16 Sao Paulo](https://unite.unity.com/2016/sao-paulo) | **September 11** | Sao Paulo
+* [ABCDev](http://2016.abcdevelopers.org/) | **September 17** | Sao Bernardo do Campo
 * [RubyConf Brasil](http://www.rubyconf.com.br/) | **September 23-24** | Sao Paulo
 
 #### October
