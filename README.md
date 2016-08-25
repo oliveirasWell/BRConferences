@@ -102,22 +102,24 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [Android Dev Conference](http://androidconference.com.br/) | **September 5-6** | Sao Paulo
 * [Unite 16 Sao Paulo](https://unite.unity.com/2016/sao-paulo) | **September 11** | Sao Paulo
 * [ABCDev](http://2016.abcdevelopers.org/) | **September 17** | Sao Bernardo do Campo
+* [Mercado Livre Experience](http://mercadolivreexperience.com.br/2016/) | **September 17** | Sao Paulo
 * [RubyConf Brasil](http://www.rubyconf.com.br/) | **September 23-24** | Sao Paulo
 * [Conexão Kinghost](http://www.conexaokinghost.com.br/) | **September 27-28** | Online
 
 #### October
 
-* [Hackathon FIESP](http://hotsite.fiesp.com.br/hackathon/) | **October** | Sao Paulo
-* [FATEC Congresso de Tecnologia](http://congresso.fatecsp.br/) | **October** | Sao Paulo
 * [QCon Rio de Janeiro](http://qconrio.com/) | **October 3-7** | Rio de Janeiro
-* [PG Day Campinas](http://pgdaycampinas.com.br/) | **October 6** | Campinas
 * [TDC Porto Alegre](http://www.thedevelopersconference.com.br/) | **October 5-9** | Porto Alegre
+* [PG Day Campinas](http://pgdaycampinas.com.br/) | **October 6** | Campinas
+* [#LARACONFBRASIL](http://laraconfbrasil.com.br/) | **October 8** | Sao Paulo
 * [Python Brazil](http://2016.pythonbrasil.org.br/) | **October 13-18** | Florianopolis
 * [Web.br 2016 - W3C Brasil](http://conferenciaweb.w3c.br/) | **October 13-14** | Sao Paulo
 * [GDG DevFest Cerrado](http://devfestcerrado.com.br) | **October 15** | Goiania
+* [Hackathon FIESP](http://hotsite.fiesp.com.br/hackathon/) | **October 15-17** | Sao Paulo
 * [Futurecom](http://en.futurecom.com.br/) | **October 16-20** | Sao Paulo
-* [iMasters InterCon 2016](http://intercon.imasters.com.br) | **October 21-22** | Sao Paulo
+* [FATEC Congresso de Tecnologia](http://congresso.fatecsp.br/) | **October 17-20** | Sao Paulo
 * [CodeGirl](http://euvou.codegirl.com.br/) | **October 21** | Natal
+* [iMasters InterCon 2016](http://intercon.imasters.com.br) | **October 21-22** | Sao Paulo
 * [GDG DevFest Nordeste](https://devfestne.com.br/) | **October 21-22** | Recife
 * [FrontEnd Carioca](http://frontendcarioca.com.br/) | **October 22** | Rio de Janeiro
 * [Gartner Symposium ITxpo](http://www.gartner.com/events/la/brazil-symposium) | **October 24-27** | Sao Paulo
