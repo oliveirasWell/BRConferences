@@ -123,6 +123,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [GDG DevFest Nordeste](https://devfestne.com.br/) | **October 21-22** | Recife
 * [FrontEnd Carioca](http://frontendcarioca.com.br/) | **October 22** | Rio de Janeiro
 * [Gartner Symposium ITxpo](http://www.gartner.com/events/la/brazil-symposium) | **October 24-27** | Sao Paulo
+* [GDG DevFest Paraná](https://devfestpr-14f3c.firebaseapp.com/) | **October 29** | Foz do Iguaçu
 
 #### November
 
