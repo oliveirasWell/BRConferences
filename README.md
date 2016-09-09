@@ -60,6 +60,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [Tech Interior 2016](http://techinterior.com.br/) | **June 11** | Jaboticabal
 * [MasterCard SHIFT Hackathon](http://www.mastercardshift.com/) | **June 11** | São Paulo
 * [Visual Studio Summit 2016](http://www.visualstudiosummit.com.br/) | **June 11** | São Paulo
+* [RuPy Campinas](http://campinas.rupy.com.br) | **June 18** | Campinas
 * [18º Encontro Locaweb São Paulo](http://eventos.locaweb.com.br/18o-encontro-locaweb-sao-paulo/) | **June 22** | São Paulo
 * [Developer Day São Paulo](http://womakerscode.org/developer-day-sao-paulo.html) | **June 25** | São Paulo
 * [SAMPA JS](http://sampajs.site/) | **June 25** | São Paulo
