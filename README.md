@@ -129,7 +129,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 
 #### November
 
-* [GopherCon Brasil](https://2016.gopherconbr.org/) | **November 04-06** | Florianopolis / SC 
+* [GopherCon Brasil](https://2016.gopherconbr.org/) | **November 04-06** | Florianopolis / SC
 * [GDG DevFest Sul](http://devfestsul.com.br/) | **November 7-8** | Sao Paulo
 * [Mobile Summit](http://www.msummit.com.br/) | **November 18-19** | Porto Alegre
 * [CASE](http://case.abstartups.com.br/) | **November** | Sao Paulo
@@ -140,6 +140,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 #### December
 
 * [PHP Conference Brasil](http://phpconference.com.br) | **December 07-11** | Osasco
+* [OpenLabs](http://openlabs.com.br/) | **December 03** | Nova Friburgo
 
 
 ### More
