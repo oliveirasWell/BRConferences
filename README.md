@@ -110,7 +110,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 
 #### October
 
-* [QCon Rio de Janeiro](http://qconrio.com/) | **October 3-7** | Rio de Janeiro
+* [QCon Rio de Janeiro](http://qconrio.com/) | ** Cancelled ** | Rio de Janeiro
 * [TDC Porto Alegre](http://www.thedevelopersconference.com.br/) | **October 5-9** | Porto Alegre
 * [PG Day Campinas](http://pgdaycampinas.com.br/) | **October 6** | Campinas
 * [#LARACONFBRASIL](http://laraconfbrasil.com.br/) | **October 8** | Sao Paulo
@@ -132,6 +132,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [GopherCon Brasil](https://2016.gopherconbr.org/) | **November 04-06** | Florianopolis / SC
 * [GDG DevFest Sul](http://devfestsul.com.br/) | **November 7-8** | Sao Paulo
 * [Mobile Summit](http://www.msummit.com.br/) | **November 18-19** | Porto Alegre
+* [Rails Girls Sao Paulo](http://railsgirls.com/saopaulo) | **November 18-19** | Sao Paulo
 * [CASE](http://case.abstartups.com.br/) | **November** | Sao Paulo
 * [GDG DevFest Sao Paulo](http://sp.devfest.com.br/) | **November** | Sao Paulo
 * [Developer Week Porto Alegre](http://developerweek.imasters.com.br/porto-alegre/) | **November** | Porto Alegre
