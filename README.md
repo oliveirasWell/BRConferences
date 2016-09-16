@@ -130,13 +130,11 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 #### November
 
 * [GopherCon Brasil](https://2016.gopherconbr.org/) | **November 04-06** | Florianopolis / SC
+* [CASE](http://case.abstartups.com.br/) | **November 7-8** | Sao Paulo
 * [GDG DevFest Sul](http://devfestsul.com.br/) | **November 7-8** | Sao Paulo
+* [GDG DevFest Sao Paulo](http://sp.devfest.com.br/) | **November 12** | Sao Paulo
 * [Mobile Summit](http://www.msummit.com.br/) | **November 18-19** | Porto Alegre
 * [Rails Girls Sao Paulo](http://railsgirls.com/saopaulo) | **November 18-19** | Sao Paulo
-* [CASE](http://case.abstartups.com.br/) | **November** | Sao Paulo
-* [GDG DevFest Sao Paulo](http://sp.devfest.com.br/) | **November** | Sao Paulo
-* [Developer Week Porto Alegre](http://developerweek.imasters.com.br/porto-alegre/) | **November** | Porto Alegre
-* [Big Data Week](http://bigdataweek.com.br/) | **November** | Sao Paulo
 
 #### December
 
