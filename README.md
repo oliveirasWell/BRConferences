@@ -105,6 +105,8 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [ABCDev](http://2016.abcdevelopers.org/) | **September 17** | Sao Bernardo do Campo
 * [Mercado Livre Experience](http://mercadolivreexperience.com.br/2016/) | **September 17** | Sao Paulo
 * [Front In Fortaleza](http://frontinfortaleza.com.br/) | **September 17** | Fortaleza
+* [V Fórum Empreendedoras](http://forumempreendedoras.com.br/) | **September 22** | Sao Paulo
+* [PaulistaHack 1 ano](https://www.facebook.com/events/1061913440551022/) | **September 23** | Sao Paulo
 * [RubyConf Brasil](http://www.rubyconf.com.br/) | **September 23-24** | Sao Paulo
 * [Conexão Kinghost](http://www.conexaokinghost.com.br/) | **September 27-28** | Online
 
