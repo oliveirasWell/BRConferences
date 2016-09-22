@@ -124,6 +124,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [FATEC Congresso de Tecnologia](http://congresso.fatecsp.br/) | **October 17-20** | Sao Paulo
 * [CodeGirl](http://euvou.codegirl.com.br/) | **October 21** | Natal
 * [iMasters InterCon 2016](http://intercon.imasters.com.br) | **October 21-22** | Sao Paulo
+* [Mobile Summit 360](http://www.msummit.com.br/360/) | **October 22** | Sao Paulo
 * [GDG DevFest Nordeste](https://devfestne.com.br/) | **October 21-22** | Recife
 * [FrontEnd Carioca](http://frontendcarioca.com.br/) | **October 22** | Rio de Janeiro
 * [Gartner Symposium ITxpo](http://www.gartner.com/events/la/brazil-symposium) | **October 24-27** | Sao Paulo
