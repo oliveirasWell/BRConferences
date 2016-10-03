@@ -134,6 +134,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 #### November
 
 * [GopherCon Brasil](https://2016.gopherconbr.org/) | **November 04-06** | Florianopolis / SC
+* [Lady Problems Hackathon - São Paulo by AngelHack](https://www.eventbrite.com/e/lady-problems-hackathon-sao-paulo-tickets-27564035773) | **November 5-6** | Sao Paulo
 * [CASE](http://case.abstartups.com.br/) | **November 7-8** | Sao Paulo
 * [GDG DevFest Sul](http://devfestsul.com.br/) | **November 7-8** | Sao Paulo
 * [GDG DevFest Sao Paulo](http://sp.devfest.com.br/) | **November 12** | Sao Paulo
