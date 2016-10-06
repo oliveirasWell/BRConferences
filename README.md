@@ -148,6 +148,12 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [OpenLabs](http://openlabs.com.br/) | **December 03** | Nova Friburgo
 
 
+### 2017
+
+#### May
+
+* [Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC)](http://sbrc2017.ufpa.br/) | **May 15-19** | Belém
+
 ### More
 * A [Twitter list](https://twitter.com/jchahoud/lists/brconferences) with all the conferences made by [Juliana Chahoud](https://twitter.com/jchahoud)
 
