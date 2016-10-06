@@ -116,6 +116,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [TDC Porto Alegre](http://www.thedevelopersconference.com.br/) | **October 5-9** | Porto Alegre
 * [PG Day Campinas](http://pgdaycampinas.com.br/) | **October 6** | Campinas
 * [#LARACONFBRASIL](http://laraconfbrasil.com.br/) | **October 8** | Sao Paulo
+* [Elixir Day na Quero Educação](https://www.eventbrite.com/e/elixir-day-na-quero-educacao-tickets-28233729846?ref_source=elixirday) | **October 8** | São José dos Campos
 * [Python Brazil](http://2016.pythonbrasil.org.br/) | **October 13-18** | Florianopolis
 * [Web.br 2016 - W3C Brasil](http://conferenciaweb.w3c.br/) | **October 13-14** | Sao Paulo
 * [GDG DevFest Cerrado](http://devfestcerrado.com.br) | **October 15** | Goiania
