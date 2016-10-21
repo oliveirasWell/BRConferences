@@ -139,6 +139,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [Lady Problems Hackathon - São Paulo by AngelHack](https://www.eventbrite.com/e/lady-problems-hackathon-sao-paulo-tickets-27564035773) | **November 5-6** | Sao Paulo
 * [CASE](http://case.abstartups.com.br/) | **November 7-8** | Sao Paulo
 * [GDG DevFest Sul](http://devfestsul.com.br/) | **November 7-8** | Sao Paulo
+* [Agile Brazil](http://www.agilebrazil.com/2016/) | **November 7-9** | Curitiba
 * [GDG DevFest Sao Paulo](http://sp.devfest.com.br/) | **November 12** | Sao Paulo
 * [Mobile Summit](http://www.msummit.com.br/) | **November 18-19** | Porto Alegre
 * [Rails Girls Sao Paulo](http://railsgirls.com/saopaulo) | **November 18-19** | Sao Paulo
