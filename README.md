@@ -129,20 +129,32 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [Mobile Summit 360](http://www.msummit.com.br/360/) | **October 22** | Sao Paulo
 * [GDG DevFest Nordeste](https://devfestne.com.br/) | **October 21-22** | Recife
 * [FrontEnd Carioca](http://frontendcarioca.com.br/) | **October 22** | Rio de Janeiro
+* [XV Simpósio Brasileiro de Qualidade de Software](http://sbqs.com.br/) | **October 24-27** | Maceió
 * [Gartner Symposium ITxpo](http://www.gartner.com/events/la/brazil-symposium) | **October 24-27** | Sao Paulo
+* [V Congresso Brasileiro de Informática na Educação](http://www.cbie2016.facom.ufu.br/pt/) | **October 24-27** | Uberlândia
 * [XV Escola Regional de Informática Norte 2](http://erin2.ufpa.br/principal/programacao-geral/) | **October 24-25** | Belém
+* [III Escola Regional de Sistemas de Informação - RJ](http://labbd.ufrrj.br/ersi2016/) | **October 25-26** | Seropédica
 * [GDG DevFest Paraná](https://devfestpr-14f3c.firebaseapp.com/) | **October 29** | Foz do Iguaçu
 
 #### November
 
+* [VI Simpósio Brasileiro de Engenharia de Sistemas Computacionais](http://sbesc.lisha.ufsc.br/sbesc2016/Home) | **November 01-04** | João Pessoa
 * [GopherCon Brasil](https://2016.gopherconbr.org/) | **November 04-06** | Florianopolis / SC
 * [Lady Problems Hackathon - São Paulo by AngelHack](https://www.eventbrite.com/e/lady-problems-hackathon-sao-paulo-tickets-27564035773) | **November 5-6** | Sao Paulo
 * [CASE](http://case.abstartups.com.br/) | **November 7-8** | Sao Paulo
 * [GDG DevFest Sul](http://devfestsul.com.br/) | **November 7-8** | Sao Paulo
 * [Agile Brazil](http://www.agilebrazil.com/2016/) | **November 7-9** | Curitiba
+* [XVI Simpósio Brasileiro de Segurança da Informação e Sistemas Computacionais](http://sbseg2016.ic.uff.br/pt/index.php) | **November 07-11** | Niterói
+* [XXII Simpósio Brasileiro de Sistemas Multimídia e Web](http://www6.ifpi.edu.br/webmedia/?page_id=11&lang=pt) | **November 08-11** | Teresina
+* [IV Escola Regional de Informática Norte 3](http://incuba.cloud/erin/) | **November 08-11** | Rio Branco
+* [1ª Escola Regional de Jogos e Entretenimento Digital](http://erjedi.uniritter.edu.br/) | **November 10-13** | Porto Alegre
 * [GDG DevFest Sao Paulo](http://sp.devfest.com.br/) | **November 12** | Sao Paulo
+* [VII Escola Regional de Informática de Mato Grosso (ERI-MT 2016) e VI Congresso de Computação do Sul de Mato Grosso (COMPSULMT 2016)](http://www.compsulmt.com.br/) | **November 14-18** | Rondonópolis
 * [Mobile Summit](http://www.msummit.com.br/) | **November 18-19** | Porto Alegre
 * [Rails Girls Sao Paulo](http://railsgirls.com/saopaulo) | **November 18-19** | Sao Paulo
+* [IV Escola Regional de Informática de Goiás](http://erigo.sbc.org.br/) | **November 18-19** | Goiânia
+* [XIX Brazilian Symposium on Formal Methods](http://sbmf2016.imd.ufrn.br/) | **November 22-25** | Natal
+* [IX Escola Potiguar de Computação e suas Aplicações](http://natal.uern.br/epoca2016/) | **November 23-25** | Natal
 
 #### December
 
