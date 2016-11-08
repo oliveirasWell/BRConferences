@@ -23,6 +23,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [VII Escola Regional de Informática de Mato Grosso (ERI-MT 2016) e VI Congresso de Computação do Sul de Mato Grosso (COMPSULMT 2016)](http://www.compsulmt.com.br/) | **November 14-18** | Rondonópolis
 * [Mobile Summit](http://www.msummit.com.br/) | **November 18-19** | Porto Alegre
 * [IV Escola Regional de Informática de Goiás](http://erigo.sbc.org.br/) | **November 18-19** | Goiânia
+* [PotiCon - 1ª Conferência Potiguar de Software Livre](http://www.potilivre.org/poticon/) | **November 18-19** | Natal
 * [XIX Brazilian Symposium on Formal Methods](http://sbmf2016.imd.ufrn.br/) | **November 22-25** | Natal
 * [IX Escola Potiguar de Computação e suas Aplicações](http://natal.uern.br/epoca2016/) | **November 23-25** | Natal
 
