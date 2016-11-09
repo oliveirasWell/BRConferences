@@ -32,6 +32,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [OpenLabs](http://openlabs.com.br/) | **December 03** | Nova Friburgo
 * [PHP Conference Brasil](http://phpconference.com.br) | **December 07-11** | Osasco
 * [Rails Girls Sao Paulo](http://railsgirls.com/saopaulo) | **December 09-10** | Sao Paulo
+* [Darkmira Tour Community & PHP Com Rapadura](http://community.darkmiratour.rocks/phpcomrapadura/) | **December 16** | Fortaleza
 
 
 ### 2017
