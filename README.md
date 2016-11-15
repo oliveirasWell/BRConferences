@@ -20,6 +20,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [IV Escola Regional de Informática Norte 3](http://incuba.cloud/erin/) | **November 08-11** | Rio Branco
 * [1ª Escola Regional de Jogos e Entretenimento Digital](http://erjedi.uniritter.edu.br/) | **November 10-13** | Porto Alegre
 * [GDG DevFest Sao Paulo](http://sp.devfest.com.br/) | **November 12** | Sao Paulo
+* [Javaneiros](https://www.javaneiros.com.br/) | **November 12** | Campo Grande
 * [VII Escola Regional de Informática de Mato Grosso (ERI-MT 2016) e VI Congresso de Computação do Sul de Mato Grosso (COMPSULMT 2016)](http://www.compsulmt.com.br/) | **November 14-18** | Rondonópolis
 * [Mobile Summit](http://www.msummit.com.br/) | **November 18-19** | Porto Alegre
 * [IV Escola Regional de Informática de Goiás](http://erigo.sbc.org.br/) | **November 18-19** | Goiânia
