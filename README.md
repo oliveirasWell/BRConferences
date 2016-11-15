@@ -30,6 +30,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 
 #### December
 
+* [CocoaHeads Conference 2016](http://cocoaheadsconference.com.br/) | **December 02-03** | Osasco
 * [OpenLabs](http://openlabs.com.br/) | **December 03** | Nova Friburgo
 * [PHP Conference Brasil](http://phpconference.com.br) | **December 07-11** | Osasco
 * [Rails Girls Sao Paulo](http://railsgirls.com/saopaulo) | **December 09-10** | Sao Paulo
